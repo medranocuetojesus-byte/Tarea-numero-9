@@ -1,0 +1,20 @@
+/* Estilos personalizados - Gestión de Productos */
+
+body {
+  background-color: #f4f6f9;
+}
+
+.card-tabla {
+  border: 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  border-radius: 0.75rem;
+}
+
+thead th {
+  white-space: nowrap;
+}
+
+.col-operaciones {
+  width: 130px;
+  text-align: center;
+}
